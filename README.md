@@ -10,8 +10,8 @@ ACTIVIDADES DESARROLLADAS
 
     Crear la GVR Camera Rig 
     Durante este paso, crearemos la cámara VR incluyendo el GvrEditorEmulator en la escena y configurando la cámara. 
-
-<img width="45%" src="Imagenes/img1.png"></img>
+    
+<img width="45%" src="Imagenes/img1.PNG"></img>
 
     Preparando la escena para la interacción 
     Durante este paso, prepararemos la escena para la interacción configurando el puntero, el emisor de rayos y el sistema de eventos, y luego probaremos el sistema de punto de referencia incluido (waypoint).
