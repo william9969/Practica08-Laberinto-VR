@@ -16,7 +16,7 @@ ACTIVIDADES DESARROLLADAS
     Preparando la escena para la interacción 
     Durante este paso, prepararemos la escena para la interacción configurando el puntero, el emisor de rayos y el sistema de eventos, y luego probaremos el sistema de punto de referencia incluido (waypoint).
 
-<img width="45%" src="Imagenes/img2png"></img>
+<img width="45%" src="Imagenes/img2.png"></img>
 
     Hacer que los objetos del juego sean interactivos 
     Durante este paso haremos que la Moneda, la Llave y la Puerta sean interactivas añadiéndoles componentes de disparadores y eventos.
